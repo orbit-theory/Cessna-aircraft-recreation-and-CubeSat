@@ -12,6 +12,7 @@ Recreated a Cessna aircraft as the final project for my Indian Space Lab interns
 - Modeled the aircraft geometry and fuselage.
 - Created design views and renders.
 - Analyzed the aircraft layout and components.
+- CubeSat enclosement for avionics
 
 ## Files
 - `models/cessna_model.f3d` — editable Fusion 360 model
